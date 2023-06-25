@@ -1,1 +1,0 @@
-# react-template-for-navbar
